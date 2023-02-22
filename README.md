@@ -1,6 +1,7 @@
-# a_mongo_easydo
+# Flutter TODO App 
 
-A new Flutter project.
+A Flutter app with MongoDb as database.
+Can perform various CRUD operations.
 
 ## Getting Started
 
